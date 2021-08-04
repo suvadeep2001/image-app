@@ -1,5 +1,14 @@
 💥 Image Processing App This is an image processing app using node js and it's library jimp.
+
 🌈 You can use it to resize your files .
+
+## Features
+
+JavaScript Image Manipulation Program
+
+The "JavaScript Image Manipulation Program" 
+
+An image processing library for Node written entirely in JavaScript, with zero native dependencies.
 
 ## Installation
 
